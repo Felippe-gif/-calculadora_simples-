@@ -26,7 +26,7 @@
          resultado = n1 * n2
         print(f'O resultado da multiplicação é: {resultado}')
 elif opcao == 4:
-# Verifica se o segundo número é zero para evitar divisão por zero
+
   if n2 == 0:
        print("Erro! Não é possível dividir por zero.")
       else:
